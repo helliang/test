@@ -1,0 +1,13 @@
+{
+	"errorCode": "00",
+	"errorMessage": "请求成功",
+	"returnObject" :{
+	  "amount": "1.25",
+	  "userInfo": {
+			"id": "e94301fbc62343c8b90ac36591a60dac",
+			"nickName": "笔试",
+			"diamond": 12.2345,
+			"power": 2000
+	  }
+	}
+}
